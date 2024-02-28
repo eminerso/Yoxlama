@@ -1,0 +1,10 @@
+/*body{background: lightcyan; }*/
+h1{ color:blue;}
+div{
+    background-color: rgb(21, 253, 0);
+    width: 100px;
+    height: 100px;
+        border-radius: 50px;
+}
+div:hover{ background-color: aqua;}
+div:active{ background-color: red;}
